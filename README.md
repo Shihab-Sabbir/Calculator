@@ -1,7 +1,9 @@
 # Deployed on https://srs-calculator.web.app/
 
 Features : Basic Calculation 
-![Uploading my calculator.PNG…]()
+
+![my calculator](https://user-images.githubusercontent.com/92453657/139021758-e00c7f8a-be9e-45ac-a90c-59541121e8aa.PNG)
+
 
 
 # Getting Started with Create React App
